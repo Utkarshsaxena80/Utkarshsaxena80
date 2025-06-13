@@ -20,7 +20,7 @@ Passionate about decentralization, smart contracts, and scaling impactful tech.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,ethersjs,web3js,nextjs,react,ts,tailwind,js,html,css,git,github,vscode,postgresql" />
+  <img src="https://skillicons.dev/icons?i=solidity,nextjs,react,ts,tailwind,js,html,css,git,github,vscode,postgresql,cpp" />
 </div>
 
 ---
