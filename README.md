@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Utkarsh Saxena
 
-I'm a B.Tech student building at the intersection of **Web3**, **Full Stack Development**, and **Open Source**.  
+I'm a 3rd year B.Tech student building at the intersection of **Web3**, **Full Stack Development**, and **Open Source**.  
 Passionate about decentralization, smart contracts, and scaling impactful tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Saxena-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/utkarsh-saxena-900b83293/)
